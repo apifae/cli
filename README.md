@@ -43,8 +43,8 @@ against it, not against the URL you fetched from.
 
 ## Reporting a problem
 
-Email <team@apifae.com>. Issues opened here are not monitored.
+Email <hello@apifae.com>. Issues opened here are not monitored.
 
 ## Licence
 
-The binaries are distributed under MIT OR Apache-2.0.
+Closed source; binaries under MIT or Apache-2.0.
