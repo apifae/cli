@@ -43,7 +43,7 @@ against it, not against the URL you fetched from.
 
 ## Reporting a problem
 
-Email <hello@apifae.com>. Issues opened here are not monitored.
+Email <team@apifae.com>. Issues opened here are not monitored.
 
 ## Licence
 
